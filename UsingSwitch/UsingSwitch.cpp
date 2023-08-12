@@ -25,7 +25,7 @@ int main()
         default:
             cout << "Я не знаю такого числа" << endl;
         }
-        system("pause > nul");
-        return 0;
     }
+    system("pause > nul");
+    return 0;
 }
